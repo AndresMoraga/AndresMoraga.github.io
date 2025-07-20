@@ -1,0 +1,174 @@
+
+.logo-nav{
+    width: 86px;
+}
+
+.logo-footer{
+    width: 82px;
+}
+.card{
+    width: 18rem;
+}
+
+.card-title{
+font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 20px;
+}
+
+.card-text{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #707070;
+    font-size: 16px;
+    margin: 0;
+}
+
+.precios {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+    justify-content: flex-end;
+}
+
+.precio-antiguo {
+    color: #707070;
+    font-size: 16px;
+    margin: 0;
+}
+
+.precio-nuevo {
+    color: #28A745;
+    font-size: 20px;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+
+.direccion p{
+    margin: 0;
+}
+
+.direccion {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #707070;
+    font-size: 13px;
+    margin: 0;
+}
+
+.correo {
+    background-color: #28A745;
+    color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    gap: 14px;
+}
+
+form{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 1rem;
+}
+
+input{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #707070;
+    font-size: 16px;
+    margin: 0;
+    width: 92vw;
+    padding: 0.5rem;
+}
+
+.texto-correo{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 21px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+button{
+    height: 40px;
+    width: 112.71px;
+    align-items: center;
+    background-color: white;
+    color: #212529;
+    border-radius: 4px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    font-size: 19px;
+}
+
+.logo{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100; 
+    font-size: 24px;
+}
+
+.texto-footer{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    color: #707070;
+    font-size: 16px;
+    margin: 0;  
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+}
